@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Uvindu Harshana](https://danielcaballero.herokuapp.com)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Uvindu Harshana](https://uvinduharshana.hashnode.dev/)!
 
 I'm currently a CS Undergraduate. I´m live in Sri Lanka.
 
